@@ -3,6 +3,6 @@ Repository creata esclusivamente come appoggio per l'esame di Project Management
 Il corso è tenuto dai Prof. Domenico Ursino e Prof. Gianluca Bonifazi.
 
 Autori:
-        Diego Santarelli
-        Simone Recinelli
-        Andrea Marini
+        Diego Santarelli,
+        Simone Recinelli,
+        Andrea Marini.
